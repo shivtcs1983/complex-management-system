@@ -19,9 +19,9 @@ const ComplexRoute = () => {
                 </nav>
             </div>
             <Routes>
-                <Route path="/home" element={<HomePage />} />
-                <Route path="/attraction" element={<AttractionPage />} />
-                <Route path="/facility" element={<FacilityPage />} />
+                <Route path="/complex-management-system/home" element={<HomePage />} />
+                <Route path="/complex-management-system/attraction" element={<AttractionPage />} />
+                <Route path="/complex-management-system/facility" element={<FacilityPage />} />
             </Routes>
         </div>
     )
