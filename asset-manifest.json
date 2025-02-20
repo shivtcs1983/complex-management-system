@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/complex-management-system/static/css/main.fa6c4598.css",
-    "main.js": "/complex-management-system/static/js/main.996de502.js",
+    "main.js": "/complex-management-system/static/js/main.5f127c3d.js",
     "static/js/453.ed3810f9.chunk.js": "/complex-management-system/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/complex-management-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/complex-management-system/index.html",
     "main.fa6c4598.css.map": "/complex-management-system/static/css/main.fa6c4598.css.map",
-    "main.996de502.js.map": "/complex-management-system/static/js/main.996de502.js.map",
+    "main.5f127c3d.js.map": "/complex-management-system/static/js/main.5f127c3d.js.map",
     "453.ed3810f9.chunk.js.map": "/complex-management-system/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa6c4598.css",
-    "static/js/main.996de502.js"
+    "static/js/main.5f127c3d.js"
   ]
 }
