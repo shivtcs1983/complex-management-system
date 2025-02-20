@@ -13,9 +13,9 @@ const ComplexRoute = () => {
             <ComplexHeader />
             <div className='complex-main-route-section'>
                 <nav className='tab-list'>
-                    <div className='link-button'><a href='/home'>Home</a></div>
-                    <div className='link-button'><a href='/attraction'>Attraction</a></div>
-                    <div className='link-button'> <a href='facility'>Facility</a></div>
+                    <div className='link-button'><a href='/complex-management-system/home'>Home</a></div>
+                    <div className='link-button'><a href='/complex-management-system/attraction'>Attraction</a></div>
+                    <div className='link-button'> <a href='/complex-management-system/facility'>Facility</a></div>
                 </nav>
             </div>
             <Routes>
