@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import FirstAPP from './myapp';
-import ComplexRoute from './ComplexRoute'
+import CMSRoute from './CMSRoute'
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <ComplexRoute/>
+      <CMSRoute/>
       {/* <FirstAPP/> */}
     </div>
   );
