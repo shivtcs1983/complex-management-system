@@ -4,6 +4,7 @@ import { Routes, Route } from 'react-router-dom';
 import HomePage from './home/home-page';
 import AttractionPage from './attraction/attraction-page';
 import FacilityPage from './facility/facility-page';
+import PageNotFound from "./components/PageNotFound";
 import './CMSRoute.scss';
 
 
@@ -36,6 +37,7 @@ const Mega_Menu =[
             </div>
 
             <Routes>
+                <Route path="*" element={<PageNotFound/>}/>
                 <Route path="/complex-management-system/home" element={<HomePage />} />
                 <Route path="/complex-management-system/attraction" element={<AttractionPage />} />
                 <Route path="/complex-management-system/facility" element={<FacilityPage />} />
