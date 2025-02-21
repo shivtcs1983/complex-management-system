@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import ComplexHeader from './components/ComplexHeader';
 import { Routes, Route } from 'react-router-dom';
-import HomePage from './home/home-page';
-import AttractionPage from './attraction/attraction-page';
-import FacilityPage from './facility/facility-page';
+import Home from "./home/home"
+import Attraction from "./attraction/attraction";
+import Facility from "./facility/facility"
 import PageNotFound from "./components/PageNotFound";
 import './CMSRoute.scss';
 
@@ -38,9 +38,9 @@ const Mega_Menu =[
 
             <Routes>
                 <Route path="*" element={<PageNotFound/>}/>
-                <Route path="/complex-management-system/home" element={<HomePage />} />
-                <Route path="/complex-management-system/attraction" element={<AttractionPage />} />
-                <Route path="/complex-management-system/facility" element={<FacilityPage />} />
+                <Route path="/complex-management-system/home" element={<Home />} />
+                <Route path="/complex-management-system/attraction" element={<Attraction />} />
+                <Route path="/complex-management-system/facility" element={<Facility />} />
             </Routes>
 
         </div>

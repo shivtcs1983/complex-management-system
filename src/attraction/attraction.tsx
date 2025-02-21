@@ -1,5 +1,5 @@
 
-const AttractionPage =()=>{
+const Attraction =()=>{
 
     return(<div>
  <p>Attraction page</p>
@@ -11,4 +11,4 @@ const AttractionPage =()=>{
     </div>)
 }
 
-export default AttractionPage;
+export default Attraction;

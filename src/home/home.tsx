@@ -1,4 +1,4 @@
-const HomePage =()=>{
+const Home =()=>{
 
     return(<div>
  <p>Home page, Stay tuned....</p>
@@ -6,4 +6,4 @@ const HomePage =()=>{
     </div>)
 }
 
-export default HomePage;
+export default Home;
