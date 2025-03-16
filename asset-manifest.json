@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/complex-management-system/static/css/main.5cdacbf1.css",
-    "main.js": "/complex-management-system/static/js/main.e99104b4.js",
+    "main.css": "/complex-management-system/static/css/main.e8fa69e3.css",
+    "main.js": "/complex-management-system/static/js/main.a16d9c3b.js",
     "static/js/453.ed3810f9.chunk.js": "/complex-management-system/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/complex-management-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/complex-management-system/index.html",
-    "main.5cdacbf1.css.map": "/complex-management-system/static/css/main.5cdacbf1.css.map",
-    "main.e99104b4.js.map": "/complex-management-system/static/js/main.e99104b4.js.map",
+    "main.e8fa69e3.css.map": "/complex-management-system/static/css/main.e8fa69e3.css.map",
+    "main.a16d9c3b.js.map": "/complex-management-system/static/js/main.a16d9c3b.js.map",
     "453.ed3810f9.chunk.js.map": "/complex-management-system/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cdacbf1.css",
-    "static/js/main.e99104b4.js"
+    "static/css/main.e8fa69e3.css",
+    "static/js/main.a16d9c3b.js"
   ]
 }
