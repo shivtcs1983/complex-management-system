@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+        "baseUrl": "./",
         "target": "es6",
         "lib": ["dom", "dom.iterable", "esnext"],
         "allowJs": true,
@@ -14,7 +15,11 @@
         //"resolveJsonModule": true,
         //"isolatedModules": true,
         //"noEmit": true,
-        "jsx": "react-jsx"
+        "jsx": "react-jsx",
+        "outDir": "dist",
+"resolveJsonModule": true,
+"strictNullChecks": false,
+"skipDefaultLibCheck": true,
     },
     "include": [
         "**/*.ts",
@@ -22,5 +27,6 @@
         "./.src",
         "src/**/*",
         "**/*.scss",
+        "vite.config.ts"
     ]
 }
