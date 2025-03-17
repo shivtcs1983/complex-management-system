@@ -45,7 +45,6 @@ const CMSRoute = () => {
                 <Route path="/complex-management-system/attraction" element={<Attraction />} />
                 <Route path="/complex-management-system/facility" element={<Facility />} />
             </Routes>
-
         </div>
     )
 }
