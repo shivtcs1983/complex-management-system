@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "type": "module",
   "private": true,
+  "homepage": "https://shivtcs1983.github.io/complex-management-system",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -17,7 +18,7 @@
     "sass":"^1.85.0"
   },
   "scripts": {
- "dev":"vite",
+ "start":"vite",
  "build":"vite build",
  "build-prod":"vite build",
  "ci":"npm run build",
