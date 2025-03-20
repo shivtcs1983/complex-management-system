@@ -4,7 +4,7 @@ const ComplexHeader =()=>{
 
     return(<div>
         <div className="complex-headline">
-        <h2>शिव शक्ती संकुल, कोल्हार - बेलापूर रोड , कडीत खुर्द </h2>
+        <h2>शिव शक्ती संकुल, कोल्हार - बेलापूर रोड , कडीत खुर्द,  कडीत</h2>
         </div>
         {/* <img src={Logo} className='holkar-logo'/> */}
     </div>)
