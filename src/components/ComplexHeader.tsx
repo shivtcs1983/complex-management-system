@@ -7,7 +7,6 @@ const ComplexHeader =()=>{
         <h2>शिव शक्ती संकुल, कोल्हार - बेलापूर रोड , कडीत खुर्द </h2>
         </div>
         {/* <img src={Logo} className='holkar-logo'/> */}
-
     </div>)
 }
 
